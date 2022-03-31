@@ -1,6 +1,9 @@
-# Assignment_5_Trivia_Game
+# Trivia-Game
 
 [![web](https://img.shields.io/static/v1?logo=heroku&message=Online&label=Heroku&color=430098)](https://assignment-5-trivia-game.herokuapp.com/)
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/96972844/161159515-89a3cf53-7c81-4bdd-9b66-2cdd68a5f276.png">
+
 
 Trivia Game is a knowledge based game which you can play by answering questions, either by multiple choice or true or false. The development of the game is an assignment as part of the Noroff Java Full Stack Developer course.
 
